@@ -2,7 +2,7 @@
 a{text-decoration: none; color: #000;}/*밑줄,글자색바꾸기*/
 ul{list-style: none;}/*블릿없애기*/
 body{
-	font-family:'Spoqa Han Sans Neo', 'sans-serif';
+	font-family:'Noto Sans KR', sans-serif;
 	font-size:14px;
 	color:#fff;
 	line-height:1.6em;
@@ -102,7 +102,7 @@ body{
 }
 .content1_right{
 	float: left;
-	padding: 120px 0px 0px 50px;
+	padding: 120px 0px 0px 30px;
 }
 .album_text{
 	padding-bottom: 50px;
