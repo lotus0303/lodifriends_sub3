@@ -121,6 +121,7 @@ body{
 }
 .photo_bg li{
 	float: left;
+	width: 420px;
 }
 .photo_bg li a{
 	display: block;
